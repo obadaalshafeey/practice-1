@@ -1,0 +1,16 @@
+.parent{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+.div1{
+    text-align: center;
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+}
+p{
+    margin-top: 20vh;
+    font-size: 2rem;
+    color: white;
+}
