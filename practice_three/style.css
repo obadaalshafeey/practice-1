@@ -5,11 +5,8 @@ body{
     display: flex;
     flex-wrap: wrap;
     margin-left: 12vw;
-    width: 70vw;
-    height:70vh ;
-    padding-left: 2vw;
-    padding-top: 2vh;
-}
+    width: 80vw;
+    height:75vh ;}
 img{
     width: 10vw;
     height: 10vh;
@@ -21,7 +18,8 @@ h1{
 }
 p{
     color: white;
-    font-size: 1rem;
+    font-size: 100%;
+    width: 90%;
 }
 a{
     text-decoration: none;
@@ -69,7 +67,7 @@ a{
 .parent div{
   width: 20vw;
   height: 40vh;
-  margin: 2vw 2vh;
+  margin: 4vw 4vh;
   text-align: center;
 }
 /*div background img hover*/
@@ -85,6 +83,8 @@ text-align: center;
 .inner_text:hover{
     opacity: 1;
 }
+
+
 .b{
     background-color: purple;
     border: 2px solid purple;
