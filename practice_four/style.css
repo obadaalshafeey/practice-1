@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+    background-image: url("https://image.winudf.com/v2/image/Y29tLnRydWVhcHBzLnNhbW15Lm5hdHVyZV9zY3JlZW5zaG90c182X2I1N2MzN2Nj/screen-6.jpg?fakeurl=1&type=.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15vw;
+    width: 80vw;
+    height: 70vh;
+}
+.child{
+    justify-content: center;
+    width: 25%;
+    height: 40%;
+    background-color: rgb(160, 194, 106);
+    border: 1px solid rgb(160, 194, 106);
+    border-radius: 50%;
+    margin: 1vw 1vh;
+}
+.child:hover{
+opacity: 0;}

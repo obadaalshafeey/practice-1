@@ -74,10 +74,13 @@ a{
 }
 /*div background img hover*/
 .parent div:hover{
-    opacity: 0.4;
+    opacity: 0.8;
 }
 .inner_text{
-opacity: 0;}
+opacity: 0;
+margin-top: 2vh;
+text-align: center;
+}
 
 .inner_text:hover{
     opacity: 1;
